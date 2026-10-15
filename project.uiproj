@@ -1,0 +1,6 @@
+{
+  "Name": "ExcelAutomation",
+  "ProjectType": "Process",
+  "Description": "Excel Data automation",
+  "MainFile": "Main.xaml"
+}
